@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452241482354",
+    "project_id": "eveg-8c122",
+    "storage_bucket": "eveg-8c122.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452241482354:android:b202049ecee7cdb40918eb",
+        "android_client_info": {
+          "package_name": "com.eveg.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiMAJIFiune7IpD00vfQwoN2y1G0XH528"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
